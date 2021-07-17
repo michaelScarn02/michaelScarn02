@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Rudraksh Sharma
+- 👋 Hi 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mail me at srudraaksh002@gmail.com
+- 📫 How to reach me 
 
 <!---
 michaelScarn02/michaelScarn02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
