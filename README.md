@@ -1,6 +1,6 @@
 - 👋 Hi 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in the field of cybersecurity!
+- 🌱 I’m currently learning networking concepts
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
